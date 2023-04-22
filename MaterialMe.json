@@ -1,9 +1,9 @@
 {
-    "name": "LowTierYou",
-    "description": "A theme for my Material You colorscheme.",
+    "name": "MaterialMe",
+    "description": "attempting to make a V2 material you theme for myself",
     "authors": [
         {
-            "name": "sdh",
+            "name": "echo",
             "id": "1075879793368760450"
         }
     ],
@@ -36,7 +36,7 @@
             "#836c6a"
         ],
         "BACKGROUND_PRIMARY": [
-            "#271817"
+            "#1b1d12"
         ],
         "BACKGROUND_SECONDARY": [
             "#34201e"
